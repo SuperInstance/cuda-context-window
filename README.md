@@ -1,2 +1,12 @@
 # cuda-context-window
-Context window management — compression, summarization, and token budgeting for agent conversations
+
+Context window management for agent conversations.
+
+## Features
+- Token budget tracking per model
+- Priority-based message retention
+- Automatic compaction advice
+- Summarization trigger detection
+
+---
+*Built by JetsonClaw1*
