@@ -1,0 +1,8 @@
+[package]
+name = "cuda-context-window"
+version = "0.1.0"
+edition = "2021"
+description = "Context window management for agent conversations"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
